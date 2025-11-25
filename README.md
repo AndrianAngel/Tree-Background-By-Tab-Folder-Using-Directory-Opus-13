@@ -83,3 +83,8 @@ Subfolders like Documents\Work or Downloads\Temp will inherit their parent’s b
 ![T1 Settings](Images/T1.png)
 ![T2 Settings](Images/T2.png)
 ![T3 Settings](Images/T3.png)
+
+
+🌹🌹🌹🌹🌹Watch Demo Here 🌹🌹🌹🌹🌹
+It looks a bit slower because of the recording
+👉 https://youtu.be/hn9HAgYUQ38 👈

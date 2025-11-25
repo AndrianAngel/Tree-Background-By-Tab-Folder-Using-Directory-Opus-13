@@ -74,4 +74,12 @@ Subfolders like Documents\Work or Downloads\Temp will inherit their parent’s b
 📝 Notes
 - Ensure all image paths exist; missing files will be logged in the Opus output.  
 - Paths are resolved automatically (e.g., %username% expands to the current user).  
-- Opacity and fit mode are applied consistently across all backgrounds.  
+- Opacity and fit mode are applied consistently across all backgrounds.
+
+- ## 📸 Script Settings Screenshots
+
+🌹 Here’s how the configuration looks inside Directory Opus:
+
+![T1 Settings](Images/T1.png)
+![T2 Settings](Images/T2.png)
+![T3 Settings](Images/T3.png)

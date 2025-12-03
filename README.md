@@ -85,9 +85,20 @@ Subfolders like Documents\Work or Downloads\Temp will inherit their parent’s b
 
 ---
 
+1 - Tree Background Overview
 
 ![T1 Settings](Images/T1.png)
+
+---
+
+2 - Tree Background Overview
+
 ![T2 Settings](Images/T2.png)
+
+---
+
+3 - Script Configuration 
+
 ![T3 Settings](Images/T3.png)
 
 
@@ -100,7 +111,7 @@ Subfolders like Documents\Work or Downloads\Temp will inherit their parent’s b
 ---
 
 
-[Tree.Background.gif Settings](Images/Tree.Background.gif)
+![Tree.Background.gif Settings](Images/Tree.Background.gif)
 
 
 ---
